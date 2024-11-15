@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steven Tan</h1>
 <h3 align="center">A passionate full-stack developer with .Net & React.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenTan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="stevenTan-tech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steventan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="steventan-tech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevenTan-tech" alt="stevenTan-tech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steventan-tech" alt="steventan-tech" /></a> </p>
 
 - 📫 How to reach me **steven.tan.tech@gmail.com**
 
